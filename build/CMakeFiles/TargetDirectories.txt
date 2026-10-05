@@ -1,0 +1,4 @@
+/home/makar/Lab2/calculator/build/CMakeFiles/calculator.dir
+/home/makar/Lab2/calculator/build/CMakeFiles/calc_app.dir
+/home/makar/Lab2/calculator/build/CMakeFiles/edit_cache.dir
+/home/makar/Lab2/calculator/build/CMakeFiles/rebuild_cache.dir
